@@ -37,7 +37,7 @@ const Demo = () => (
       type="circle"
       strokeColor={{
         '0%': '#108ee9',
-        '100%': '#87d068',
+        '100%': 'red',
       }}
       percent={90}
     />
